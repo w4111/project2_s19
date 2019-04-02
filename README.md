@@ -8,5 +8,5 @@
 [![Alt text](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zw2497/4111Project2/blob/master/Project2_s19_colab.ipynb)
 * Open the colab
 * Save a copy in your Google Drive
-* Setup BigQuery
+* Follow the instructions in Colab to setup BigQuery
 * Enjoy the project
