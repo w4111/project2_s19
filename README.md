@@ -5,8 +5,7 @@
 * Max team of 2
 
 ## Instructions
-[![Alt text](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w4111/project2_s19/blob/master/Project2_s19_colab.ipynb)
-* Open the colab
+* [Open the colab](https://colab.research.google.com/github/w4111/project2_s19/blob/master/Project2_s19_colab.ipynb)[![Alt text](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w4111/project2_s19/blob/master/Project2_s19_colab.ipynb)
 * Save a copy in your Google Drive
 * Follow the instructions in Colab to setup BigQuery
 * Enjoy the project
